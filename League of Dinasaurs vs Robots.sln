@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League of Dinasaurs vs Robots", "League of Dinasaurs vs Robots\League of Dinasaurs vs Robots.csproj", "{2AF05B98-0A74-46B0-ABAD-66C8B80960E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF05B98-0A74-46B0-ABAD-66C8B80960E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF05B98-0A74-46B0-ABAD-66C8B80960E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF05B98-0A74-46B0-ABAD-66C8B80960E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF05B98-0A74-46B0-ABAD-66C8B80960E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B876249F-2DFD-45C8-845F-7105CFC2C20B}
+	EndGlobalSection
+EndGlobal
